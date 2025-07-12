@@ -7,6 +7,7 @@ CodeNext is a front-end clone of the popular coding platform HackerRank, built u
 This project helped me explore how to structure complex layouts, handle responsive behavior, and simulate real-world platforms for learning and portfolio-building purposes.
 
 🧩 Features
+
 🖥️ HackerRank-style homepage and all tabs.
 
 🎨 Clean and responsive layout
@@ -16,6 +17,8 @@ This project helped me explore how to structure complex layouts, handle responsi
 ⚡ Smooth scrolling and basic interactivity
 
 🛠️ Tech Stack
+
 HTML5 – Page structure
+
 CSS3 – Styling and layout
 
