@@ -8,8 +8,11 @@ This project helped me explore how to structure complex layouts, handle responsi
 
 🧩 Features
 🖥️ HackerRank-style homepage and all tabs.
+
 🎨 Clean and responsive layout
+
 🧭 Sticky navigation bar
+
 ⚡ Smooth scrolling and basic interactivity
 
 🛠️ Tech Stack
